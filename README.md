@@ -13,7 +13,7 @@ npm run doc
 ## mockサーバ起動
 
 ```
-npm run moc
+npm run mock
 ```
 
 - *.mdを元にダミーデータでエンドポイントが起動する
