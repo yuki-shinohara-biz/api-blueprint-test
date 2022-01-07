@@ -4,7 +4,7 @@
 
 #### 処理概要
 
-* 指定した会員の情報を返す。
+* 指定した会員の情報を返します。
 * userIdかmailAddressいずれかは必須。どちらも指定がない場合、BadRequestを返す。
 * userIdとmailAddressがどちらも指定されている場合、userIdの情報を利用し、mailAddressは利用しない。
 
